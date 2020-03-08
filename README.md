@@ -1,2 +1,2 @@
 # shape-dividers
-SVG shape dividers for websites
+SVG shape divider collection for websites
