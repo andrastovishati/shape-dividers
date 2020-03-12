@@ -1,5 +1,5 @@
-# shape-dividers
-SVG shape divider collection for websites
+# Shape Dividers
+SVG shape divider collection for websites.
 
 ## React Component
 
